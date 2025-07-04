@@ -1,0 +1,21 @@
+C:\Users\berat\Documents\Visual Studio 2022\sel\bin\Debug\sel.exe.config
+C:\Users\berat\Documents\Visual Studio 2022\sel\bin\Debug\sel.exe
+C:\Users\berat\Documents\Visual Studio 2022\sel\bin\Debug\sel.pdb
+C:\Users\berat\Documents\Visual Studio 2022\sel\obj\Debug\sel.csproj.AssemblyReference.cache
+C:\Users\berat\Documents\Visual Studio 2022\sel\obj\Debug\sel.Form1.resources
+C:\Users\berat\Documents\Visual Studio 2022\sel\obj\Debug\sel.Properties.Resources.resources
+C:\Users\berat\Documents\Visual Studio 2022\sel\obj\Debug\sel.csproj.GenerateResource.cache
+C:\Users\berat\Documents\Visual Studio 2022\sel\obj\Debug\sel.csproj.CoreCompileInputs.cache
+C:\Users\berat\Documents\Visual Studio 2022\sel\obj\Debug\sel.exe
+C:\Users\berat\Documents\Visual Studio 2022\sel\obj\Debug\sel.pdb
+C:\Users\AVCILAR DENEYAP\Downloads\Berat Güncel\Berat Güncel\sel\bin\Debug\sel.exe.config
+C:\Users\AVCILAR DENEYAP\Downloads\Berat Güncel\Berat Güncel\sel\bin\Debug\sel.exe
+C:\Users\AVCILAR DENEYAP\Downloads\Berat Güncel\Berat Güncel\sel\bin\Debug\sel.pdb
+C:\Users\AVCILAR DENEYAP\Downloads\Berat Güncel\Berat Güncel\sel\obj\Debug\sel.csproj.AssemblyReference.cache
+C:\Users\AVCILAR DENEYAP\Downloads\Berat Güncel\Berat Güncel\sel\obj\Debug\sel.exe.config
+C:\Users\AVCILAR DENEYAP\Downloads\Berat Güncel\Berat Güncel\sel\obj\Debug\sel.Form1.resources
+C:\Users\AVCILAR DENEYAP\Downloads\Berat Güncel\Berat Güncel\sel\obj\Debug\sel.Properties.Resources.resources
+C:\Users\AVCILAR DENEYAP\Downloads\Berat Güncel\Berat Güncel\sel\obj\Debug\sel.csproj.GenerateResource.cache
+C:\Users\AVCILAR DENEYAP\Downloads\Berat Güncel\Berat Güncel\sel\obj\Debug\sel.csproj.CoreCompileInputs.cache
+C:\Users\AVCILAR DENEYAP\Downloads\Berat Güncel\Berat Güncel\sel\obj\Debug\sel.exe
+C:\Users\AVCILAR DENEYAP\Downloads\Berat Güncel\Berat Güncel\sel\obj\Debug\sel.pdb
